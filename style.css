@@ -1,0 +1,22 @@
+body {
+    font-family: Roboto, 'Helvetica', sans-serif;
+}
+
+.header {
+    height: 72px;
+    background-color: olive;
+    color: white;
+    display:flex;
+    font-weight: 900;
+    font-size: 28px;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 16px;
+}
+
+.header-links {
+    font-weight: 100;
+    display:flex;
+    font-size: 18px;
+    gap: 16px;
+}
