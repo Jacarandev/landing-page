@@ -131,6 +131,18 @@ img {
     padding: 40px;
     color: white;
     justify-content: space-around;
+    align-items: center;;
+}
+
+.signup button {
+    background-color: slategray;
+    border-color: white;
+    border: 2px solid white;
+    border-radius: 8px;
+    font-size:22px;
+    box-shadow: 4px 4px 4px;
+    height:60px;
+    padding: 10px;
 }
 
 /*FOOTER SECTION*/
